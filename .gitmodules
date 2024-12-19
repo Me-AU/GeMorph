@@ -1,3 +1,6 @@
 [submodule "pigmentation-prediction"]
 	path = pigmentation-prediction
 	url = https://github.com/Me-AU/pigmentation-prediction
+[submodule "ancestry-prediction"]
+	path = ancestry-prediction
+	url = https://github.com/Me-AU/ancestry-prediction
