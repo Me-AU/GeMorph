@@ -1,0 +1,3 @@
+[submodule "pigmentation-prediction"]
+	path = pigmentation-prediction
+	url = https://github.com/Me-AU/pigmentation-prediction
