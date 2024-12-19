@@ -4,3 +4,6 @@
 [submodule "ancestry-prediction"]
 	path = ancestry-prediction
 	url = https://github.com/Me-AU/ancestry-prediction
+[submodule "DNA-face-generation"]
+	path = DNA-face-generation
+	url = https://github.com/Me-AU/DNA-face-generation
