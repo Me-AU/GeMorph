@@ -7,3 +7,6 @@
 [submodule "DNA-face-generation"]
 	path = DNA-face-generation
 	url = https://github.com/Me-AU/DNA-face-generation
+[submodule "GeMorph-preprocessors"]
+	path = GeMorph-preprocessors
+	url = https://github.com/Me-AU/GeMorph-preprocessors
